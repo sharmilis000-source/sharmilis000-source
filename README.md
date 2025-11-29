@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sharmili S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 📫 How to reach me **sharmilis000@gmail.com**
 
 - ⚡ Fun fact **I am too funny**
